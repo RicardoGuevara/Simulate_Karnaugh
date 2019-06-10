@@ -5,6 +5,7 @@
  */
 package KMG;
 
+import UI.KarnaughMapsUITest;
 /**
  *
  * @author Molock
@@ -15,7 +16,8 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("echo");
+        KarnaughMapsUITest.main(args);
     }
+    
     
 }

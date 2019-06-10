@@ -1,0 +1,6 @@
+{
+    "oneAgrupation": "Color.GREEN",
+    "zeroAgrupation": "Color.GRAY",
+    "mapForeGroung": "Color.BLACK",
+    "mapBackGroung": "Color.WHITE"
+}
